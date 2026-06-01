@@ -29,7 +29,6 @@ Today we will learn how to create a professional **README.md** file, which serve
 
 ## Step 1 - Open Your Linux Terminal
 
-<img src="../../.github/assets/DAY18-TERMINAL.jpg" width="700">
 
 Open your Linux Virtual Machine and log in.
 
@@ -40,7 +39,6 @@ Password: ********
 
 Expected Login Screen:
 
-<img src="../../.github/assets/DAY18-LOGIN.jpg" width="700">
 
 ---
 
@@ -65,7 +63,7 @@ Expected Output:
 /root/my-first-project
 ```
 
-<img src="../../.github/assets/DAY18-MKDIR.jpg" width="700">
+
 
 ---
 
@@ -83,7 +81,7 @@ Expected Output:
 Initialized empty Git repository
 ```
 
-<img src="../../.github/assets/DAY18-GITINIT.jpg" width="700">
+
 
 ### Task Complete ✅
 
@@ -111,7 +109,7 @@ Expected Output:
 README.md
 ```
 
-<img src="../../.github/assets/DAY18-README-CREATE.jpg" width="700">
+
 
 ---
 
@@ -123,7 +121,7 @@ Edit the file using Nano:
 nano README.md
 ```
 
-<img src="../../.github/assets/DAY18-NANO.jpg" width="700">
+
 
 ---
 
@@ -151,7 +149,7 @@ This repository was created during Day 18 training at NIT Academy.
 
 Example:
 
-<img src="../../.github/assets/DAY18-README-CONTENT.jpg" width="700">
+
 
 ---
 
@@ -171,7 +169,6 @@ Display the contents:
 cat README.md
 ```
 
-<img src="../../.github/assets/DAY18-CAT.jpg" width="700">
 
 ### Task Complete ✅
 
@@ -216,7 +213,6 @@ Changes to be committed:
 new file: README.md
 ```
 
-<img src="../../.github/assets/DAY18-GITADD.jpg" width="700">
 
 ---
 
@@ -233,7 +229,7 @@ Expected Output:
 create mode 100644 README.md
 ```
 
-<img src="../../.github/assets/DAY18-COMMIT.jpg" width="700">
+
 
 ### Commit Successful ✅
 
@@ -253,7 +249,7 @@ Expected Output:
 nothing to commit, working tree clean
 ```
 
-<img src="../../.github/assets/DAY18-FINAL-STATUS.jpg" width="700">
+
 
 ---
 
