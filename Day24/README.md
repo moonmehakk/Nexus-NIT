@@ -1,27 +1,27 @@
-# Day 24 – Practice Lab Summary
+# Day 24 – Linux Practice Lab
+**Date:** 1st June, 2026
 
-## Overview
-Today I completed the Day 24 Practice Lab as part of the NIT Linux and DevOps learning journey. The lab focused on reinforcing Linux command-line skills and filesystem navigation through hands-on practice.
+## Summary
 
-## What I Learned
-- Practiced working with Linux commands in a terminal environment.
-- Improved my understanding of Linux filesystem navigation.
-- Learned how Linux commands interact with files and directories.
-- Strengthened my confidence in using the command line without relying on a graphical interface.
+Today I continued practicing Linux commands and filesystem navigation. I reviewed previously learned concepts such as working with directories, files, and system information commands. I also strengthened my understanding of how Linux commands interact with the filesystem and how important command-line skills are for Linux administration.
 
-## Commands Practiced
+### Commands Practiced
 - pwd
-- ls
 - cd
+- ls
 - mkdir
 - touch
 - rm
-- rmdir
 - date
 - uptime
 
-## Key Takeaway
-Regular hands-on practice is helping me become more comfortable with Linux administration tasks and improving my troubleshooting skills.
+### Key Learning
+- Improved confidence using Linux terminal commands.
+- Practiced filesystem navigation.
+- Reviewed file and directory management.
+- Reinforced command-line troubleshooting skills.
 
-## Conclusion
-Day 24 was a valuable practice session that reinforced important Linux concepts and command-line operations. Consistent practice continues to build a strong foundation for future DevOps and System Administration work.
+### Reflection
+This practice lab helped me become more comfortable working directly from the Linux shell. Regular practice is improving my speed and understanding of Linux administration tasks.
+
+#NIT #Linux #DevOps #LearningJourney
